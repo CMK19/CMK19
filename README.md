@@ -9,6 +9,19 @@
 ![image_processing20210909-17919-tonb3b](https://user-images.githubusercontent.com/117171052/213992875-95cb2a60-af85-458d-b618-6b10b9373b51.gif)
 
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/Carol-Kilonzo-30136816b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@kilonzo.cm@gmail">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</div>
+
+
+
+
+
 
 ### About me:
 

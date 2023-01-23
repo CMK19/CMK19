@@ -1,11 +1,13 @@
-https://img.shields.io/badge/LinkedIn-blue
+
+![readme](https://user-images.githubusercontent.com/117171052/213993128-219d90a2-63be-4c10-84a7-defc87b2fb42.png)
 
 
 
 ### Hi there. I'm Carol Kilonzo👋
 
 
-https://dribbble.com/shots/4560823-Hipster-Chick/attachments/10465898?mode=media
+![image_processing20210909-17919-tonb3b](https://user-images.githubusercontent.com/117171052/213992875-95cb2a60-af85-458d-b618-6b10b9373b51.gif)
+
 
 
 ### About me:
@@ -13,8 +15,8 @@ https://dribbble.com/shots/4560823-Hipster-Chick/attachments/10465898?mode=media
 I am a Data Scientist with a finance background.
 
 - 🔭 I’m currently working on improving my skills in tech.
-- 🌱 I’m currently learning  Data Science and Machine Learning.
-- 👯 I’m looking to collaborate on Data Science projects.
+- 🌱 I’m currently learning  Data Science and Machine Learning. 
+- 👯 I’m looking to collaborate on Data Science projects.    
 - 💬 Ask me about Data Analysis,ML,Python and anything Finance.
 - 📫 How to reach me: kilonzo.cm@gmail.com
 - 😄 Pronouns:She/her
